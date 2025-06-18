@@ -1,10 +1,10 @@
 const categorias = [
-  { nome: 'Alimentos', icone: '/assets/Alimentos.png', rota: 'alimentos.html' },
-  { nome: 'Sentimentos', icone: '/assets/Sentimentos.png', rota: 'sentimentos.html' },
-  { nome: 'Brincar', icone: '/assets/Brincar.png', rota: 'brincar.html' },
-  { nome: 'Pessoas', icone: '/assets/Pessoas.png', rota: 'pessoas.html' },
-  { nome: 'Necessidades', icone: '/assets/Necessidades.png', rota: 'necessidades.html' },
-  { nome: 'Locais', icone: '/assets/Locais.png', rota: 'locais.html' },
+  { nome: 'Alimentos', icone: '/assets/img/Alimentos.png', rota: 'alimentos.html' },
+  { nome: 'Sentimentos', icone: '/assets/img/Sentimentos.png', rota: 'sentimentos.html' },
+  { nome: 'Brincar', icone: '/assets/img/Brincar.png', rota: 'brincar.html' },
+  { nome: 'Pessoas', icone: '/assets/img/Pessoas.png', rota: 'pessoas.html' },
+  { nome: 'Necessidades', icone: '/assets/img/Necessidades.png', rota: 'necessidades.html' },
+  { nome: 'Locais', icone: '/assets/img/Locais.png', rota: 'locais.html' },
 ];
 
 const grid = document.querySelector('.grid');
